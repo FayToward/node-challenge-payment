@@ -1,0 +1,7 @@
+test-output
+.DS_Store
+node_modules
+helm/**/*.lock
+*.tgz
+.vscode
+.env
